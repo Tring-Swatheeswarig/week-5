@@ -1,0 +1,1 @@
+UPDATE Books SET is_issued = TRUE WHERE isbn = '9780451524935';
